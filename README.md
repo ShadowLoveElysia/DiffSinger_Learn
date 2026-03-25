@@ -34,4 +34,4 @@
 
 如果你需要最完整、最细节的统一版文档：
 
-- [../DiffSinger_标准详细教程.md](../DiffSinger_标准详细教程.md)
+- [./DiffSinger_标准详细教程.md](./DiffSinger_标准详细教程.md)
